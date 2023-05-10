@@ -12,3 +12,22 @@ Console.WriteLine($"{temp} you are {age} year old");
 
 Console.Writeline("this is just to test for merge conflicts and how to solve it");
 Console.WriteLine("we cant figure it out");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Console.WriteLine("this is a test for merge and see how close can we work on lines");
