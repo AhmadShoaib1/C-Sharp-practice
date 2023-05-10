@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-string temp;
 
-Console.WriteLine("write down you name: ");
-temp= Console.ReadLine();
-Console.WriteLine($"congrats your a member now{tmep}"s);
+Console.Write("write down you name: ");
+string Name = Console.ReadLine();
+Console.WriteLine($"congrats your a member now {Name}");
+Console.Write("What year were you born in?  ");
+int Year = Console.Read();
+Console.WriteLine($"Your name is {Name} and your age is {2023 - Year}");
